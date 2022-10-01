@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/mysql-connector-java-8.0.28.jar"/>
+	<classpathentry kind="lib" path="Lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="Lib/antlr-2.7.6rc1.jar"/>
+	<classpathentry kind="lib" path="Lib/asm.jar"/>
+	<classpathentry kind="lib" path="Lib/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="Lib/c3p0-0.9.0.jar"/>
+	<classpathentry kind="lib" path="Lib/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="Lib/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="Lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="Lib/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="Lib/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="Lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="Lib/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="Lib/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="Lib/hibernate-entitymanager.jar"/>
+	<classpathentry kind="lib" path="Lib/hibernate-validator.jar"/>
+	<classpathentry kind="lib" path="Lib/jaas.jar"/>
+	<classpathentry kind="lib" path="Lib/javassist.jar"/>
+	<classpathentry kind="lib" path="Lib/jaxen-1.1-beta-7.jar"/>
+	<classpathentry kind="lib" path="Lib/jboss-archive-browsing.jar"/>
+	<classpathentry kind="lib" path="Lib/jboss-cache.jar"/>
+	<classpathentry kind="lib" path="Lib/jdbc2_0-stdext.jar"/>
+	<classpathentry kind="lib" path="Lib/jgroups-2.2.8.jar"/>
+	<classpathentry kind="lib" path="Lib/jta.jar"/>
+	<classpathentry kind="lib" path="Lib/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="Lib/mysql.jar"/>
+	<classpathentry kind="lib" path="Lib/xerces-2.6.2.jar"/>
+	<classpathentry kind="lib" path="Lib/xml-apis.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
